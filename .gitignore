@@ -40,4 +40,4 @@ playground.xcworkspace
 Pods/
 
 # Firebase plist
-IHXTracker/GoogleService-Info.plist
+/IHXTracker/GoogleService-Info.plist
