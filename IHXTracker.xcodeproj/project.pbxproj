@@ -13,11 +13,11 @@
 		FF686F0E20347F0A0025652C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF686F0C20347F0A0025652C /* Main.storyboard */; };
 		FF686F1020347F0A0025652C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF686F0F20347F0A0025652C /* Assets.xcassets */; };
 		FF686F1320347F0A0025652C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF686F1120347F0A0025652C /* LaunchScreen.storyboard */; };
-		FF686F1B203480430025652C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FF686F1A203480430025652C /* GoogleService-Info.plist */; };
 		FF686F232035449E0025652C /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF686F222035449E0025652C /* LoginVC.swift */; };
 		FF686F25203545E70025652C /* DatasService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF686F24203545E70025652C /* DatasService.swift */; };
 		FF686F27203546070025652C /* AuthService.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF686F26203546070025652C /* AuthService.swift */; };
 		FF686F2920354C860025652C /* InsetTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF686F2820354C860025652C /* InsetTextField.swift */; };
+		FF686F2B203613120025652C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FF686F2A203613120025652C /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,11 +31,11 @@
 		FF686F0F20347F0A0025652C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF686F1220347F0A0025652C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF686F1420347F0A0025652C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FF686F1A203480430025652C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		FF686F222035449E0025652C /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
 		FF686F24203545E70025652C /* DatasService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatasService.swift; sourceTree = "<group>"; };
 		FF686F26203546070025652C /* AuthService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthService.swift; sourceTree = "<group>"; };
 		FF686F2820354C860025652C /* InsetTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsetTextField.swift; sourceTree = "<group>"; };
+		FF686F2A203613120025652C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,7 +95,7 @@
 				FF686F1D203481E10025652C /* Views */,
 				FF686F1E203481EA0025652C /* Controllers */,
 				FF686F1420347F0A0025652C /* Info.plist */,
-				FF686F1A203480430025652C /* GoogleService-Info.plist */,
+				FF686F2A203613120025652C /* GoogleService-Info.plist */,
 			);
 			path = IHXTracker;
 			sourceTree = "<group>";
@@ -214,7 +214,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF686F1320347F0A0025652C /* LaunchScreen.storyboard in Resources */,
-				FF686F1B203480430025652C /* GoogleService-Info.plist in Resources */,
+				FF686F2B203613120025652C /* GoogleService-Info.plist in Resources */,
 				FF686F1020347F0A0025652C /* Assets.xcassets in Resources */,
 				FF686F0E20347F0A0025652C /* Main.storyboard in Resources */,
 			);
